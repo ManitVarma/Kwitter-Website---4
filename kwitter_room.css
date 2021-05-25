@@ -1,0 +1,10 @@
+.header{
+    font-family: 'Itim', cursive;
+}
+body{
+    background-color: orange;
+}
+#kwitter_logo{
+    height: 100px;
+    width: 100px;
+}
